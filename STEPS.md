@@ -11,3 +11,5 @@ Step 9 - Same thing
 Step 10 - commit to main
 Step 11 - merge commits 6 and 9
 Step 12 - Add image and update STEPS.md in bug-fix
+Step 13 - Merge bug-fix into main
+Step 14 - Done!
